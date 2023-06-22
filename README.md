@@ -34,6 +34,34 @@ To run this project locally, please follow the steps below:
 
 4. Once the chatbot is built, you can interact with it by providing queries and receiving responses.
 
+## Query Word Cloud
+![image](https://github.com/ParthKalkar/simple-chatbot/assets/50231750/7ffa6283-68b5-4bec-ad2a-75a7a942bca4)
+
+## Response Word Cloud
+![image](https://github.com/ParthKalkar/simple-chatbot/assets/50231750/b346c2c1-5098-4c67-989e-6a47dd15663c)
+
+
+## Top Positive Sentence
+![image](https://github.com/ParthKalkar/simple-chatbot/assets/50231750/acdea171-9b87-431c-8665-5d6a633b3142)
+
+
+## Top Negative Sentence
+![image](https://github.com/ParthKalkar/simple-chatbot/assets/50231750/89cadc26-ae59-43fc-9cc5-6b1dc84481e3)
+
+
+## Top Neutral Sentence
+![image](https://github.com/ParthKalkar/simple-chatbot/assets/50231750/849ed9ec-ee38-44b8-a641-327765a95b17)
+
+## Application
+![image](https://github.com/ParthKalkar/simple-chatbot/assets/50231750/f77ede1e-120e-4ecb-b9ce-738cc3eaf6dd)
+
+![image](https://github.com/ParthKalkar/simple-chatbot/assets/50231750/9724631c-6e8e-4347-95d5-b5cb0faa8fd5)
+
+![image](https://github.com/ParthKalkar/simple-chatbot/assets/50231750/1d9c75cd-411b-4697-a259-7a36d9404873)
+
+![image](https://github.com/ParthKalkar/simple-chatbot/assets/50231750/7105bb13-51e1-4453-be08-a5cdfd0dc5b8)
+
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute the code as per the terms of the license.
