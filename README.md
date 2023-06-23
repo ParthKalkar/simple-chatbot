@@ -75,6 +75,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Contact
 
-If you have any questions or inquiries regarding this project, please feel free to reach out to us at [parthkalkar@hotmail.com].
+If you have any questions or inquiries regarding this project, please feel free to reach out to us at parthkalkar@hotmail.com.
 
 Happy Chatbotting!
